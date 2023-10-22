@@ -1,0 +1,33 @@
+{
+	"Regular": {
+		"Dango": {
+			"UP": "0",
+			"DOWN": "0",
+			"DANCER": "0"
+		},
+		"Clouds": {
+			"UP": "0",
+			"DOWN": "0",
+			"DANCER": "0"
+		},
+		"Dashy": {
+			"UP": "0",
+			"DOWN": "0",
+			"DANCER": "0"
+		}
+	},
+	"Dan": {
+		"Summer": {
+			"UP": "0"
+		},
+		"Fall": {
+			"UP": "0"
+		},
+		"Winter": {
+			"UP": "0"
+		},
+		"Spring": {
+			"UP": "0"
+		}
+	}
+}
