@@ -1,19 +1,24 @@
 {
 	"Regular": {
-		"Dango": {
+		"": {
 			"UP": "0",
 			"DOWN": "0",
 			"DANCER": "0"
+		},
+		"Dango": {
+			"UP": "Dango",
+			"DOWN": "Dango",
+			"DANCER": "Dango"
 		},
 		"Clouds": {
-			"UP": "0",
-			"DOWN": "0",
-			"DANCER": "0"
+			"UP": "Clouds",
+			"DOWN": "Clouds",
+			"DANCER": "Clouds"
 		},
 		"Dashy": {
-			"UP": "0",
-			"DOWN": "0",
-			"DANCER": "0"
+			"UP": "Dashy",
+			"DOWN": "Dashy",
+			"DANCER": "Dashy"
 		}
 	},
 	"Dan": {
