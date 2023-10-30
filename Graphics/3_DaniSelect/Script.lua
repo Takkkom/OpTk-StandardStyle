@@ -74,7 +74,7 @@ function draw()
                     ratio = (255 - value) / 400 + 1
                     func:SetScale(ratio, ratio, "Dan_Text.png")
 
-                    func:DrawGraphRectCenter(dan_text_x[i], dan_text_y[i], dan_text_width * i, 0, dan_text_width, dan_text_height, "Dan_Text.png")
+                    func:DrawGraphRectCenter(dan_text_x[i], dan_text_y[i], dan_text_width * (i - 1), 0, dan_text_width, dan_text_height, "Dan_Text.png")
                 end
             end
         end
