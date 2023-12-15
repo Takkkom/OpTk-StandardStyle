@@ -6,3 +6,6 @@ OpenTaikoのスキン
 
 Credits
 TFD500/BGM
+ぽんぽんぺいん(picrew)/Endのキャラ
+OtoLogic/一部の効果音やBGM
+みんちりえ（ https://min-chi.material.jp/ ）

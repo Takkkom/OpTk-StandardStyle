@@ -55,10 +55,10 @@ function update()
         text1_y_v = 1
     end
 
-    if counter > 2 then
+    if counter > 3 then
         credit1_opacity = credit1_opacity + (2 * deltaTime)
     end
-    if counter > 4.5 then
+    if counter > 6 then
         credit2_opacity = credit2_opacity + (2 * deltaTime)
     end
 
